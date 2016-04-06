@@ -1,7 +1,7 @@
 {
-  "name": "css-modules-loader-core",
+  "name": "css-modules-loader-core-source-map",
   "version": "1.0.0",
-  "description": "A loader-agnostic CSS Modules implementation, based on PostCSS",
+  "description": "A loader-agnostic CSS Modules implementation, based on PostCSS with source map support",
   "main": "lib/index.js",
   "directories": {
     "test": "test"
@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/css-modules/css-modules-loader-core.git"
+    "url": "https://github.com/whydoidoit/css-modules-loader-core.git"
   },
   "keywords": [
     "css-modules",
@@ -41,10 +41,10 @@
   "files": [
     "lib"
   ],
-  "author": "Glen Maddern",
+  "author": "Mike Talbot (Glen Maddern)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/css-modules/css-modules-loader-core/issues"
+    "url": "https://github.com/whydoidoit/css-modules-loader-core/issues"
   },
-  "homepage": "https://github.com/css-modules/css-modules-loader-core"
+  "homepage": "https://github.com/whydoidoit/css-modules-loader-core"
 }
